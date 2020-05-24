@@ -1,24 +1,6 @@
-# box
+# Daily To-Do 
 
-## Project setup
-```
-npm install
-```
+<img width="1440" alt="Screen Shot 2020-05-23 at 10 34 19 PM" src="https://user-images.githubusercontent.com/19761687/82745977-ad108000-9d47-11ea-82d9-4cc6551b81a2.png">
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Description
+A daily To-Do app/other fun things! This is my first app created from scratch using vue. It is my playground to learn some basic vue concepts such as, data mutation, routing, API consumption, and more. 
